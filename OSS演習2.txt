@@ -1,38 +1,38 @@
-�I�[�v���\�[�X�\�t�g�E�F�A�@���K�Q
-�uOSS���i�𒲍�����v
+オープンソースソフトウェア　演習２
+「OSS製品を調査する」
 
 Vi
-1)�T�C�g�̏ꏊ
-https://ex-vi.sourceforge.net/�i�p��j
-2)���i�̋@�\�T�v�A����
-�}�E�X���g�킸�A�J�[�\���L�[���g��Ȃ����߁A���ꂽ�Ƃ��ɑf�����ҏW���삪�ł���B
-�܂��A�J�[�\�����g��Ȃ����߁A����炪���p�ł��Ȃ��n�[�h�E�F�A��ł��g�p�ł���B
-�������A��ʏ�ɖ��ߕ\���̈悪�Ȃ����߁A���߂��o����K�v������B
-3)���v�A�����̊J����
-BSD�̑n�n�҂ł���r���E�W���C���J���ҁB
-BSD�����J����ɂ������ĊJ�����Ă���Pascal(1970�N��̃v���O���~���O����)�R���p�C�����y�ɍ�邽�߂ɊJ�����ꂽ�B
-��ɁA�r���E�W���C���g�����ǂ��A����vi�ƌĂ΂��G�f�B�^�ƂȂ��Ă���B
-4)���p�������A���p�����A�z�z�����i���C�Z���X�j
+1)サイトの場所
+https://ex-vi.sourceforge.net/（英語）
+2)製品の機能概要、特徴
+マウスを使わず、カーソルキーも使わないため、慣れたときに素早い編集操作ができる。
+また、カーソルを使わないため、これらが利用できないハードウェア上でも使用できる。
+しかし、画面上に命令表示領域がないため、命令を覚える必要がある。
+3)沿革、初期の開発者
+BSDの創始者であるビル・ジョイが開発者。
+BSDを公開するにあたって開発していたPascal(1970年代のプログラミング言語)コンパイラを楽に作るために開発された。
+後に、ビル・ジョイ自身が改良し、今のviと呼ばれるエディタとなっている。
+4)利用許諾所、利用条件、配布条件（ライセンス）
 https://ex-vi.sourceforge.net/
-5)�\�[�X�R�[�h�̏ꏊ
+5)ソースコードの場所
 https://ex-vi.sourceforge.net/
 
-�I���W�i���̃\�[�X�ւ̃A�N�Z�X�́A20�N�ȏ�ɂ킽���ď��ƓI�� Unix �\�[�X�R�[�h���C�Z���X��K�v�Ƃ��Ă������A2002�N1���ACaldera�̍D�ӂɂ��ABSD�X�^�C���̃��C�Z���X�ɂ����Ancient Unix Code�ւ̎g�p��������菜����Avi�̓t���[�ɂȂ����B
+オリジナルのソースへのアクセスは、20年以上にわたって商業的な Unix ソースコードライセンスを必要としていたが、2002年1月、Calderaの好意により、BSDスタイルのライセンスによってAncient Unix Codeへの使用制限が取り除かれ、viはフリーになった。
 
 
 
 
 Git
-1)�T�C�g�̏ꏊ
-https://git-scm.com/�i�p��j
-2)���i�̋@�\�T�v�A����
-�R���s���[�^�[�ōs���J���ɑ΂��āA�J���̗������������āA�e�J���҂̍s�����ύX�𑼂̃��|�W�g���ɃR�s�[���ł���B���|�W�g���̔z�z���\�B(���U�^)
-3)���v�A�����̊J����
-Linux�J�[�l���̊J���҂̑�����BitKeeper�̃V�X�e���ɑ΂���A�N�Z�X���֎~���ꂽ���Ƃɂ��AGit���J������邱�ƂƂȂ����BLinux�J�[�l���̊J���ł́A�����̃\�[�X�R�[�h�̏W�����������߁A�����̍�Ƃ������I�ɍs����悤�J�����ꂽ�B
-4)���p�������A���p�����A�z�z�����i���C�Z���X�j
+1)サイトの場所
+https://git-scm.com/（英語）
+2)製品の機能概要、特徴
+コンピューターで行う開発に対して、開発の履歴を可視化して、各開発者の行った変更を他のリポジトリにコピーができる。リポジトリの配布も可能。(分散型)
+3)沿革、初期の開発者
+Linuxカーネルの開発者の多くがBitKeeperのシステムに対するアクセスを禁止されたことにより、Gitが開発されることとなった。Linuxカーネルの開発では、多くのソースコードの集合を扱うため、これらの作業を効率的に行えるよう開発された。
+4)利用許諾所、利用条件、配布条件（ライセンス）
 GPLv2(GNU General Public License v2)
-GPLv2�̓K�p�͈͂ŁA�\�t�g�E�F�A�̃R�s�[��z�z�A�\�[�X�R�[�h�̌��J�������Ƃ��āA�\�[�X�R�[�h�̎��R�ȉ��ς��F�߂��Ă���B
-5)�\�[�X�R�[�h�̏ꏊ
+GPLv2の適用範囲で、ソフトウェアのコピーや配布、ソースコードの公開を原則として、ソースコードの自由な改変も認められている。
+5)ソースコードの場所
 https://git--scm-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=sc
 https://github.com/git/git
 
