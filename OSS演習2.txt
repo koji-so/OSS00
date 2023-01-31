@@ -21,7 +21,7 @@ https://ex-vi.sourceforge.net/
 
 
 
-Git
+
 1)サイトの場所
 https://git-scm.com/（英語）
 2)製品の機能概要、特徴
