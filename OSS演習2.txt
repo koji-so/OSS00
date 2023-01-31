@@ -21,16 +21,6 @@ https://ex-vi.sourceforge.net/
 
 
 
-
-
-
-
-
-
-
-
-
-
 Git
 1)サイトの場所
 https://git-scm.com/（英語）
