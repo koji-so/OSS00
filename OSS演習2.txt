@@ -22,6 +22,7 @@ https://ex-vi.sourceforge.net/
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -36,6 +37,8 @@ https://ex-vi.sourceforge.net/
 
 
 Git
+=======
+>>>>>>> f82a490e73f63c6ce8476522ea2f5402122397f0
 1)サイトの場所
 https://git-scm.com/（英語）
 2)製品の機能概要、特徴
