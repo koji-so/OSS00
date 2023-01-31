@@ -1,38 +1,46 @@
-ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã€€æ¼”ç¿’ï¼’
-ã€ŒOSSè£½å“ã‚’èª¿æŸ»ã™ã‚‹ã€
+Linux
+1)ƒTƒCƒg‚ÌêŠ
+https://linuxmint.com/
 
-Vi
-1)ã‚µã‚¤ãƒˆã®å ´æ‰€
-https://ex-vi.sourceforge.net/ï¼ˆè‹±èªžï¼‰
-2)è£½å“ã®æ©Ÿèƒ½æ¦‚è¦ã€ç‰¹å¾´
-ãƒžã‚¦ã‚¹ã‚’ä½¿ã‚ãšã€ã‚«ãƒ¼ã‚½ãƒ«ã‚­ãƒ¼ã‚‚ä½¿ã‚ãªã„ãŸã‚ã€æ…£ã‚ŒãŸã¨ãã«ç´ æ—©ã„ç·¨é›†æ“ä½œãŒã§ãã‚‹ã€‚
-ã¾ãŸã€ã‚«ãƒ¼ã‚½ãƒ«ã‚’ä½¿ã‚ãªã„ãŸã‚ã€ã“ã‚Œã‚‰ãŒåˆ©ç”¨ã§ããªã„ãƒãƒ¼ãƒ‰ã‚¦ã‚§ã‚¢ä¸Šã§ã‚‚ä½¿ç”¨ã§ãã‚‹ã€‚
-ã—ã‹ã—ã€ç”»é¢ä¸Šã«å‘½ä»¤è¡¨ç¤ºé ˜åŸŸãŒãªã„ãŸã‚ã€å‘½ä»¤ã‚’è¦šãˆã‚‹å¿…è¦ãŒã‚ã‚‹ã€‚
-3)æ²¿é©ã€åˆæœŸã®é–‹ç™ºè€…
-BSDã®å‰µå§‹è€…ã§ã‚ã‚‹ãƒ“ãƒ«ãƒ»ã‚¸ãƒ§ã‚¤ãŒé–‹ç™ºè€…ã€‚
-BSDã‚’å…¬é–‹ã™ã‚‹ã«ã‚ãŸã£ã¦é–‹ç™ºã—ã¦ã„ãŸPascal(1970å¹´ä»£ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°è¨€èªž)ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©ã‚’æ¥½ã«ä½œã‚‹ãŸã‚ã«é–‹ç™ºã•ã‚ŒãŸã€‚
-å¾Œã«ã€ãƒ“ãƒ«ãƒ»ã‚¸ãƒ§ã‚¤è‡ªèº«ãŒæ”¹è‰¯ã—ã€ä»Šã®viã¨å‘¼ã°ã‚Œã‚‹ã‚¨ãƒ‡ã‚£ã‚¿ã¨ãªã£ã¦ã„ã‚‹ã€‚
-4)åˆ©ç”¨è¨±è«¾æ‰€ã€åˆ©ç”¨æ¡ä»¶ã€é…å¸ƒæ¡ä»¶ï¼ˆãƒ©ã‚¤ã‚»ãƒ³ã‚¹ï¼‰
-https://ex-vi.sourceforge.net/
-5)ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®å ´æ‰€
-https://ex-vi.sourceforge.net/
+2)»•i‚Ì‹@”\ŠT—v
+Linux‚Æ‚ÍWindows‚âMac Os‚Æ“¯‚¶–³—¿‚Å”z•z‚³‚ê‚Ä‚¢‚éƒIƒyƒŒ[ƒeƒBƒ“ƒOƒVƒXƒeƒ€‚ÌˆêŽíBWindows10‚âMac OS‚ÆˆÙ‚È‚é“Á’¥‚Æ‚µ‚ÄALinux‚Íu–³—¿‚ÅŽg‚¦‚éƒI[ƒvƒ“ƒ\[ƒXvB‚µ‚½‚ª‚Á‚ÄALinux‚ðƒx[ƒX‚Æ‚µ‚½ŠJ”­E‰ü—Ç‚ð’N‚Å‚àŠÈ’P‚És‚¦‚é‚Ì‚ª“Á’¥B‰ü—Ç‚âŠJ”­‚¾‚¯‚Å‚È‚­AÄ”z•z‚à‰Â”\B‚»‚Ì‚½‚ß‘“àŠO‚Ì—LŽu‚ªŽ©—R‚ÉƒJƒXƒ^ƒ}ƒCƒY‚ðs‚¢AV‚½‚ÈLinux‚ðÄ”z•z‚µ‚Ä‚¢‚éB
 
-ã‚ªãƒªã‚¸ãƒŠãƒ«ã®ã‚½ãƒ¼ã‚¹ã¸ã®ã‚¢ã‚¯ã‚»ã‚¹ã¯ã€20å¹´ä»¥ä¸Šã«ã‚ãŸã£ã¦å•†æ¥­çš„ãª Unix ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã‚’å¿…è¦ã¨ã—ã¦ã„ãŸãŒã€2002å¹´1æœˆã€Calderaã®å¥½æ„ã«ã‚ˆã‚Šã€BSDã‚¹ã‚¿ã‚¤ãƒ«ã®ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã«ã‚ˆã£ã¦Ancient Unix Codeã¸ã®ä½¿ç”¨åˆ¶é™ãŒå–ã‚Šé™¤ã‹ã‚Œã€viã¯ãƒ•ãƒªãƒ¼ã«ãªã£ãŸã€‚
+3)‰ˆŠvA‰Šú‚ÌŠJ”­ŽÒ
+1991”N‚ÉA“–ŽžƒtƒBƒ“ƒ‰ƒ“ƒh‚Ìƒwƒ‹ƒVƒ“ƒL‘åŠw‚ÌŠw¶‚Å‚ ‚Á‚½ƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚ÍƒIƒyƒŒ[ƒeƒBƒ“ƒOƒVƒXƒeƒ€‚ÉDŠïS‚ð•ø‚­‚æ‚¤‚É‚È‚Á‚Ä‚¢‚½B“–ŽžA‹ß‘ã“I‚ÈOS‚ð“®ì‚³‚¹‚é”\—Í‚ðŽ‚Â Intel 80386 CPU ‚ð“‹Ú‚µ‚½32ƒrƒbƒgPC/ATŒÝŠ·ƒp[ƒ\ƒiƒ‹ƒRƒ“ƒsƒ…[ƒ^‚ª“oê‚µ‚Ä‚¢‚½Bƒ[ƒNƒXƒe[ƒVƒ‡ƒ“‚âƒ~ƒjƒRƒ“ƒsƒ…[ƒ^“™‚Æ”äŠr‚·‚ê‚Î—y‚©‚ÉˆÀ‰¿‚É“üŽè‚Å‚«‚é‚à‚Ì‚Å‚ ‚Á‚½‚½‚ßAƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚Í‚±‚ê‚ðŽg‚Á‚ÄUnixŒÝŠ·‚Ì‹@”\‚ðŽ‚ÂOS‚ð“®ì‚³‚¹‚Ä‚Ý‚½‚¢‚Æl‚¦‚Ä‚¢‚½B‚µ‚©‚µ¤—pUnix‚Í‚‰¿‚Å‚ ‚èAUnix‚ð–Í‚µ‚ÄŽÀ‘•‚³‚ê‚½ˆÀ‰¿‚ÈMINIX‚à‹³ˆç—p‚Æ‚¢‚¤Žd—l‚©‚ç‹@”\‚ª‘å•‚ÉŠÈ—ª‰»‚³‚ê‚Ä‚¢‚½‚èA‹³ˆç–Ú“I‚Å‚ÌŽg—p‚É§ŒÀ‚³‚ê‚Ä‚¢‚é‚Æ‚¢‚¤–â‘è‚ª‚ ‚èA‚¢‚¸‚ê‚àƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚Ì–Ú“I‚ð‰Ê‚½‚·‚±‚Æ‚Í¢“ï‚¾‚Á‚½B‚±‚Ì‚½‚ßƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚ÍAŠù‚ÉŽg—p‚µ‚Ä‚¢‚½Ž©ì‚Ìƒ^[ƒ~ƒiƒ‹ƒGƒ~ƒ…ƒŒ[ƒ^‚ð‰ü‘¢‚µ‚½‚èAƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€‚È‚Ç‚ÌUnixŒÝŠ·API‚ðŽÀ‘•‚µ‚½‚è‚µ‚ÄA“ÆŽ©‚ÌOSƒJ[ƒlƒ‹‚ÌŠJ”­‚ðŠJŽn‚µ‚½BÅI“I‚É‚±‚ê‚ªŒ»Ý‚ÌLinuxƒJ[ƒlƒ‹‚Ö‚Æ¬’·‚·‚é‚±‚Æ‚Æ‚È‚Á‚½B
+ƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚ÍLinuxƒJ[ƒlƒ‹‚ÌŠJ”­‚ðMINIXã‚ÅŠJŽn‚µAMINIXã‚Å“®ì‚·‚éƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÍLinuxã‚Å‚àŽg‚í‚ê‚Ä‚¢‚½BLinux‚ª\•ª‚É¬n‚·‚é‚ÆA‚»‚êˆÈ~‚ÌLinux‚ÌŠJ”­‚ÍLinuxŽ©g‚Ìã‚Ås‚¦‚é‚æ‚¤‚É‚È‚Á‚½B‚·‚×‚Ä‚ÌMINIXƒRƒ“ƒ|[ƒlƒ“ƒg‚ÍGNU‚Ìƒvƒƒ_ƒNƒg‚É‚æ‚Á‚Ä’u‚«Š·‚¦‚ç‚ê‚Ä‚¢‚Á‚½BƒtƒŠ[‚Å—˜—p‰Â”\‚ÈGNUƒvƒƒWƒFƒNƒg‚ÌƒR[ƒh‚ðŽæ‚èž‚ñ‚Å‚¢‚­‚±‚Æ‚ÍA‚Ü‚¾–¢n‚È’iŠK‚É‚ ‚Á‚½Linux‚É‚Æ‚Á‚ÄD“s‡‚¾‚Á‚½B‚³‚ç‚ÉAƒŠ[ƒiƒX‚ÍA¤‹Æ»•i‚Ìì¬‚ð‹Ö‚¶‚½“ÆŽ©‚Ìƒ‰ƒCƒZƒ“ƒX‚ð‚â‚ß‚ÄAGNU GPL‚Ö‚ÌØ‚è‘Ö‚¦‚ðs‚È‚Á‚½B
+“–‰‚ÌLinux‚ÌŽÀ‘•‚Í‹É‚ß‚Ä’Pƒ‚ÅA‘¼‚ÌŠù‘¶‚ÌŽ©—R‚Å‚È‚¢UnixƒVƒXƒeƒ€‚Ì‚Ç‚ê‚É‘Î‚µ‚Ä‚àA‚»‚Ì‹@”\‚âŽÀÑ‚É‚¨‚¢‚Ä—DˆÊ«‚Í‚È‚©‚Á‚½B‚Ü‚½“–ŽžAŽ©—R‚Èƒ\ƒtƒgƒEƒFƒA‚É‚æ‚éUnixŒÝŠ·OS‚ðŠJ”­‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚½GNUƒvƒƒWƒFƒNƒg‚ÍŽ©g‚ÌƒJ[ƒlƒ‹ (GNU Hurd) ‚ðŠ®¬‚µ‚Ä‚¢‚È‚©‚Á‚½i2015”NŒ»Ý‚à‚È‚¨ŠJ”­“rã‚Å‚ ‚éjBˆê•û‚Åƒ‰ƒCƒoƒ‹‚ÌBSD‚Í1992”N‚©‚çUSL‚Æ‚Ì‘i×‚ð•ø‚¦‚Ä‚¨‚èAŒ —˜ã‚Ì–â‘è‚ðƒNƒŠƒA‚µ‚½ƒo[ƒWƒ‡ƒ“‚ªƒŠƒŠ[ƒX‚³‚ê‚½‚Ì‚ÍFreeBSD‚Å‚Í1994”N11ŒŽ‚¾‚Á‚½B‚Â‚Ü‚èA1990”N‘ã‘O”¼‚É‚¨‚¢‚ÄAŽ©—R‚ÈUnixŒÝŠ·ƒJ[ƒlƒ‹‚ÆŒÄ‚×‚é‚æ‚¤‚È‚à‚Ì‚Ì‚¤‚¿AŽÀ—p“I‚ÅŒ —˜ã‚Ì–â‘è‚ª‚È‚¢‚Æl‚¦‚ç‚ê‚é‚Ì‚ÍLinux‚Ì‚Ù‚©‚È‚©‚Á‚½BPC‚Å“®ì‚·‚éƒtƒŠ[‚Å–{Ši“I‚ÅUnixŒn‚ÌŠÂ‹«‚ð‹‚ß‚éöÝ“I‚Èƒ†[ƒU‚½‚¿‚Ì‘½‚­‚ÍA“–Žž‚ÍŽå‚É‘Ð‚Æ‚µ‚Ä—¬’Ê‚µ‚Ä‚¢‚½‹³ˆç—pOS‚ÌMINIX‚É—¬‚ê‚Ä‚¢‚½‚ªAƒŠ[ƒiƒXEƒg[ƒoƒ‹ƒY‚ÍLinux‚ðMINIX‚Ìƒ[ƒŠƒ“ƒOƒŠƒXƒgã‚ÅŒöŠJ‚µAGPL‚Ì‰º‚Å—˜—p‰Â”\‚É‚µ‚½B‚±‚ê‚ÍƒCƒ“ƒeƒ‹‚Ì32ƒrƒbƒgCPU‚ð“‹Ú‚µ‚½PC‚Å‚µ‚©“®ì‚µ‚È‚©‚Á‚½‚ªA“–Žž‚Í‚¿‚å‚¤‚Ç32ƒrƒbƒgPC/ATƒp[ƒ\ƒiƒ‹ƒRƒ“ƒsƒ…[ƒ^‚Ì•‹yŠú‚Å‚ ‚èAGPL‚É‚æ‚Á‚Ä’N‚à‚ª‰ü—Ç‰Â”\‚¾‚Á‚½‚±‚Æ‚©‚çA‚æ‚è‘½‚­‚Ì‹@”\‚ð‹‚ß‚éŠJ”­ŽÒ‚½‚¿‚É‚æ‚é‰ü—Ç‚ð‘£‚µ‚½BŠJ”­ŽÒ‚½‚¿‚ÍLinuxƒJ[ƒlƒ‹‚ðˆç‚Ä‚Ä‚¢‚­‚Æ‚Æ‚à‚ÉAGNUƒRƒ“ƒ|[ƒlƒ“ƒg‚ÆLinux‚ð“‡‚·‚éì‹Æ‚ðs‚¢AÅI“I‚ÉŽÀ—p“I‚©‚ÂƒtƒŠ[‚ÈƒIƒyƒŒ[ƒeƒBƒ“ƒOƒVƒXƒeƒ€‚ðì‚èã‚°‚½B
 
+4)—˜—p‹–‘øŠA—˜—pðŒA”z•zðŒ
+GNUˆê”ÊŒöO—˜—p‹–‘ø‘‚Ì‚à‚Æ‚É‚¨‚¢‚ÄA”ñ‰c—˜E‰c—˜‚ÉŠÖ‚í‚ç‚¸’N‚Å‚àŽ©—R‚ÉŽg—pEC³E”Ð•z‚Å‚«‚éB
 
+5)ƒ\[ƒXƒR[ƒh‚ÌêŠ
+https://www.centos.org/download/
 
+MySQL
+1)ƒTƒCƒg‚ÌêŠ
+https://www.mysql.com/jp/
 
-Git
-1)ã‚µã‚¤ãƒˆã®å ´æ‰€
-https://git-scm.com/ï¼ˆè‹±èªžï¼‰
-2)è£½å“ã®æ©Ÿèƒ½æ¦‚è¦ã€ç‰¹å¾´
-ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ¼ã§è¡Œã†é–‹ç™ºã«å¯¾ã—ã¦ã€é–‹ç™ºã®å±¥æ­´ã‚’å¯è¦–åŒ–ã—ã¦ã€å„é–‹ç™ºè€…ã®è¡Œã£ãŸå¤‰æ›´ã‚’ä»–ã®ãƒªãƒã‚¸ãƒˆãƒªã«ã‚³ãƒ”ãƒ¼ãŒã§ãã‚‹ã€‚ãƒªãƒã‚¸ãƒˆãƒªã®é…å¸ƒã‚‚å¯èƒ½ã€‚(åˆ†æ•£åž‹)
-3)æ²¿é©ã€åˆæœŸã®é–‹ç™ºè€…
-Linuxã‚«ãƒ¼ãƒãƒ«ã®é–‹ç™ºè€…ã®å¤šããŒBitKeeperã®ã‚·ã‚¹ãƒ†ãƒ ã«å¯¾ã™ã‚‹ã‚¢ã‚¯ã‚»ã‚¹ã‚’ç¦æ­¢ã•ã‚ŒãŸã“ã¨ã«ã‚ˆã‚Šã€GitãŒé–‹ç™ºã•ã‚Œã‚‹ã“ã¨ã¨ãªã£ãŸã€‚Linuxã‚«ãƒ¼ãƒãƒ«ã®é–‹ç™ºã§ã¯ã€å¤šãã®ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®é›†åˆã‚’æ‰±ã†ãŸã‚ã€ã“ã‚Œã‚‰ã®ä½œæ¥­ã‚’åŠ¹çŽ‡çš„ã«è¡Œãˆã‚‹ã‚ˆã†é–‹ç™ºã•ã‚ŒãŸã€‚
-4)åˆ©ç”¨è¨±è«¾æ‰€ã€åˆ©ç”¨æ¡ä»¶ã€é…å¸ƒæ¡ä»¶ï¼ˆãƒ©ã‚¤ã‚»ãƒ³ã‚¹ï¼‰
-GPLv2(GNU General Public License v2)
-GPLv2ã®é©ç”¨ç¯„å›²ã§ã€ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã®ã‚³ãƒ”ãƒ¼ã‚„é…å¸ƒã€ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®å…¬é–‹ã‚’åŽŸå‰‡ã¨ã—ã¦ã€ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®è‡ªç”±ãªæ”¹å¤‰ã‚‚èªã‚ã‚‰ã‚Œã¦ã„ã‚‹ã€‚
-5)ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã®å ´æ‰€
-https://git--scm-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=sc
-https://github.com/git/git
+2)»•i‚Ì‹@”\ŠT—v
+ƒŠƒŒ[ƒVƒ‡ƒiƒ‹ƒf[ƒ^ƒx[ƒXŠÇ—ƒVƒXƒeƒ€B—lX‚Èƒf[ƒ^ƒx[ƒX‹ì“®Œ^WebƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ÅŽg—p‚³‚êAFaceBookAFlickrAMediaWikiATwitterAYouTube‚È‚Ç‚ÅŽg—p‚³‚ê‚Ä‚¢‚éBŒ¾Œê‚ÍŽå‚ÉC‚ÆC++‚Å‘‚©‚ê‚Ä‚¢‚éBAIXABSDiAFreeBSDAHP-UXAeComStationAi5/OSAIRIXALinuxAmacOSAMicrosoft WindowsANetBSDANovell NetWareAOpenBSDAOpenSolarisAOS/2WarpAQNXASymbianASunOSASCO OpenServerASCO UnixWareASanosATru64‚È‚ÇA‘½‚­‚ÌƒVƒXƒeƒ€ƒvƒ‰ƒbƒgƒtƒH[ƒ€‚Å“®ì‚·‚éB
 
+3)‰ˆŠvA‰Šú‚ÌŠJ”­ŽÒ
+1995”N5ŒŽ23“ú - “à•”“I‚ÉMySQL‚ÌÅ‰‚Ìƒo[ƒWƒ‡ƒ“‚ªƒŠƒŠ[ƒXB
+1998”N1ŒŽ8“ú - Å‰‚ÌWindows”Å‚ªƒŠƒŠ[ƒXBWindows 95‚âNTŒü‚¯B
+2001”N1ŒŽ - Version 3.23 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXBƒx[ƒ^”Å‚Í2000”N6ŒŽ‚ÉƒŠƒŠ[ƒXB
+2003”N3ŒŽ - Version 4.0 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXBƒx[ƒ^”Å‚Í2002”N8ŒŽ‚ÉƒŠƒŠ[ƒXBunion“‹ÚB
+2004”N10ŒŽ - Version 4.1 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXBƒx[ƒ^”Å‚Í2004”N6ŒŽ‚ÉƒŠƒŠ[ƒXBƒTƒuƒNƒGƒŠ[Aprepared statements“‹ÚB
+2005”N10ŒŽ - Version 5.0 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi5.0.15‚æ‚èGAjBƒx[ƒ^”Å‚Í2005”N3ŒŽ‚ÉƒŠƒŠ[ƒXBcursors, stored procedures, triggers, views, XA transactions“‹ÚB
+2008”N2ŒŽ6“ú - ƒTƒ“Eƒ}ƒCƒNƒƒVƒXƒeƒ€ƒY‚ªMySQL AB‚ð”ƒŽûB
+2008”N7ŒŽ1“ú - ƒTƒ“Eƒ}ƒCƒNƒƒVƒXƒeƒ€ƒYŠ”Ž®‰ïŽÐ‚ªMySQLŠ”Ž®‰ïŽÐiMySQL‚Ì“ú–{–@lj‚ð‹zŽû‡•¹B
+2008”N11ŒŽ - Version 5.1 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi5.1.30‚æ‚èGAjBƒx[ƒ^”Å‚Í2005”N11ŒŽ‚ÉƒŠƒŠ[ƒXBevent scheduler, partitioning, plugin API, row-based replication, server log tables“‹ÚB
+2010”N1ŒŽ27“ú - ƒIƒ‰ƒNƒ‹‚ªƒTƒ“Eƒ}ƒCƒNƒƒVƒXƒeƒ€ƒY‚ð”ƒŽûB
+2010”N12ŒŽ15“ú - Version 5.5 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi5.5.8‚æ‚èGAjBƒfƒtƒHƒ‹ƒg‚ÌƒXƒgƒŒ[ƒWƒGƒ“ƒWƒ“‚ª InnoDB ‚É‚È‚èAƒ}ƒ‹ƒ`ƒRƒACPU‚Å‚ÌƒpƒtƒH[ƒ}ƒ“ƒX‚ª‰ü‘P‚µ‚½Bƒx[ƒ^”Å (Version 5.4) ‚Í2009”N4ŒŽ‚ÉƒŠƒŠ[ƒXB
+2013”N2ŒŽ5“ú - Version 5.6 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi5.6.10‚æ‚èGAjBInnoDBANoSQL‚Ì‹@”\‚ð‹­‰»B
+2015”N10ŒŽ21“ú - Version 5.7 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi5.7.9‚æ‚èGAjB
+2018”N4ŒŽ19“ú - Version 8.0 ƒvƒƒ_ƒNƒVƒ‡ƒ“ƒŠƒŠ[ƒXi8.0.11‚æ‚èGAjB
+
+4)—˜—p‹–‘ø‘A—˜—pðŒA”z•zðŒ
+GUN@General Public License‚ÌðŒ‚ÉŠî‚Ã‚¢‚½ƒtƒŠ[‚ÅƒI[ƒvƒ“ƒ\[ƒX‚Ìƒ\ƒtƒgƒEƒFƒA‚Å‚ ‚èA‚³‚Ü‚´‚Ü‚Èƒvƒƒvƒ‰ƒCƒGƒ^ƒŠƒ‰ƒCƒZƒ“ƒX‚Å‚à—˜—p‰Â”\
+
+5)ƒ\[ƒXƒR[ƒh‚ÌêŠ
+https://github.com/mysql/mysql-server/
