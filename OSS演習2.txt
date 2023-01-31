@@ -21,6 +21,7 @@ https://ex-vi.sourceforge.net/
 
 
 
+<<<<<<< HEAD
 
 追加しました。
 
@@ -31,6 +32,8 @@ https://ex-vi.sourceforge.net/
 
 
 
+=======
+>>>>>>> 08df8d112fb3465a389fee4829de114e7fb18305
 Git
 1)サイトの場所
 https://git-scm.com/（英語）
